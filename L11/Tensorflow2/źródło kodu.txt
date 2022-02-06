@@ -1,0 +1,4 @@
+Projekt przedstawia wykorzystanie biblioteki Tensorflow. Program opiera się na wykrywaniu obiektów na obrazach i określaniu czym jest dany obiekt za pomocą uczenia maszynowego.
+
+Źródło kodu:
+https://www.tensorflow.org/hub/tutorials/object_detection
