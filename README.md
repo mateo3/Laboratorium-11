@@ -6,6 +6,7 @@ Model wytrenowany na zbiorze danych DIV2K (na obrazach z próbkowaniem bikubiczn
 
 Źródło kodu: 
 https://www.tensorflow.org/hub/tutorials/image_enhancing
+
 Źródło obrazu: 
 https://www.fototapety24.net/fotografia/400/42164353/rolnictwo-zielony-natura-lato.jpg
 
